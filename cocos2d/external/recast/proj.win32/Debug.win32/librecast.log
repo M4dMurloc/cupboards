@@ -1,0 +1,19 @@
+﻿  DebugDraw.cpp
+  DetourDebugDraw.cpp
+  DetourCrowd.cpp
+  DetourLocalBoundary.cpp
+  DetourObstacleAvoidance.cpp
+  DetourPathCorridor.cpp
+  DetourPathQueue.cpp
+  DetourProximityGrid.cpp
+  DetourTileCache.cpp
+  DetourTileCacheBuilder.cpp
+  DetourAlloc.cpp
+  DetourCommon.cpp
+  DetourNavMesh.cpp
+  DetourNavMeshBuilder.cpp
+  DetourNavMeshQuery.cpp
+  DetourNode.cpp
+D:\Cupboards\Cupboards\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp(334,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  fastlz.c
+  librecast.vcxproj -> D:\Cupboards\Cupboards\proj.win32\Debug.win32\librecast.lib

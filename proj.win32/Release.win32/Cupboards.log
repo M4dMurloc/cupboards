@@ -1,0 +1,16 @@
+﻿  AppDelegate.cpp
+  GameChip.cpp
+  GamePoint.cpp
+  GameScene.cpp
+  LevelManager.cpp
+  MainMenuScene.cpp
+  main.cpp
+     Создается библиотека D:\CUPBOARDS_GIT\proj.win32\Release.win32\Cupboards.lib и объект D:\CUPBOARDS_GIT\proj.win32\Release.win32\Cupboards.exp
+  Создание кода
+  1295 of 1323 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    35 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Cupboards.vcxproj -> D:\CUPBOARDS_GIT\proj.win32\Release.win32\Cupboards.exe
+  Performing Custom Build Step
+  Скопировано файлов: 0.
